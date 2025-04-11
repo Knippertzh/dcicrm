@@ -1,3 +1,5 @@
+app = "ydcicrmp-name"  # Replace with your actual app name
+
 [build]
   command = "npm run build"
 
