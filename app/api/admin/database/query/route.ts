@@ -1,4 +1,4 @@
-mimport { NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 import { query } from '@/lib/db';
 
 // Function to get auth token from cookies
